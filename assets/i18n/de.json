@@ -1,0 +1,16 @@
+{
+    "home.language": "Sprache",
+    "home.greeting": "Hallo",
+    "home.im": "Ich bin",
+    "home.position": " Frontend Entwickler",
+    "home.projects": " Projekte",
+    "home.contact": "Kontakt",
+    "home.projectTitle": "Stein, Papier & Scherenspiel",
+    "home.projectDescription": "ist eine einfache Webanwendung, die mit HTML, CSS und JavaScript implementiert wird. Es ermöglicht Benutzern, das klassische Spiel gegen den Computer zu spielen. Der Zweck dieses Projekts besteht darin, meine Fähigkeiten in der Front-End-Webentwicklung und JavaScript-Programmierung zu demonstrieren.",
+    "home.skills": "Technologien",
+    "home.skillsDescription": "HTML und CSS zur Erstellung einer attraktiven Benutzeroberfläche. JavaScript zur Umsetzung der Spiellogik und Interaktivität. DOM-Manipulation zur dynamischen Aktualisierung der Benutzeroberfläche. Zufallszahlengenerierung zur Generierung der Computerauswahl. Ereignisbehandlung zum Erfassen von Benutzereingaben und Auslösen von Spielaktionen.",
+    "home.projectTitle2": "QuizUP",
+    "home.projectDescription2": "ist eine interaktive Quizspiel-Webanwendung, mit der Benutzer ihr Wissen in verschiedenen Kategorien testen können. Die Anwendung bietet ein ansprechendes und lehrreiches Erlebnis, indem sie den Benutzern Multiple-Choice-Fragen stellt, ihren Fortschritt verfolgt und ihre Endergebnisse anzeigt. QuizUp ist für das Nicht-Echtzeit-Gameplay konzipiert und ermöglicht es den Benutzern, in ihrem eigenen Tempo zu spielen und mit ihren eigenen bisherigen Rekorden zu konkurrieren.",
+    "home.skills2": "Technologien",
+    "home.skillsDescription2": "Angular: Front-End-Entwicklungsframework zum Erstellen der Benutzeroberfläche und Anwendungslogik. TypeScript: Die primäre Sprache zum Schreiben von Angular-Code. HTML/CSS - Bootstrap: Markup- und Styling-Sprachen, die zum Erstellen des Layouts und Designs der Anwendung verwendet werden. RESTful-APIs: Integration mit externen APIs zum Abrufen von Fragen und zum Speichern von Benutzerfortschritten und -ergebnissen. Lokaler Speicher: Lokale Speicherung von Benutzerdaten, um sich Fortschritt, Ergebnisse und Präferenzen zu merken."
+}

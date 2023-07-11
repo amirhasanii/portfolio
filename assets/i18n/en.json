@@ -1,0 +1,18 @@
+{
+    "home": {
+        "language": "Language",
+        "greeting": "Hello",
+        "im": "I'm",
+        "position": "Frontend Developer",
+        "contact": "Contact",
+        "projects": "Projects",
+        "projectTitle": "Rock, Paper & Scissors Game",
+        "projectDescription": "is a simple web application implemented using HTML, CSS, and JavaScript. It allows users to play the classic game against the computer. The purpose of this project is to showcase my skills in front-end web development and JavaScript programming.",
+        "skills": "Technologies",
+        "skillsDescription": "HTML and CSS for creating an attractive user interface. JavaScript for implementing the game logic and interactivity. DOM manipulation to update the UI dynamically. Random number generation for generating the computer's choice. Event handling for capturing user input and triggering game actions.",
+        "projectTitle2": "QuizUP",
+        "projectDescription2": "is an interactive quiz game web application that allows users to test their knowledge across various categories. The application provides an engaging and educational experience by presenting users with multiple-choice questions, tracking their progress, and displaying their final scores. QuizUp is designed for non-real-time gameplay, allowing users to play at their own pace and compete against their own previous records.",
+        "skills2": "Technologies",
+        "skillsDescription2": "Angular: Front-end development framework for building the user interface and application logic.TypeScript: The primary language for writing Angular code. HTML/CSS - Bootstrap: Markup and styling languages used for creating the application's layout and design.RESTful APIs: Integration with external APIs to fetch questions and store user progress and scores.Local Storage: Storing user data locally to remember progress, scores, and preferences."
+    }
+}
